@@ -14,7 +14,7 @@ class Castjs {
     }
     // Application variables
     this.events         = {};
-    this.receiver       = receiver    || 'CC1AD845';
+    this.receiver       = receiver    || 'B0FF80E4';
     this.joinpolicy     = joinpolicy  || 'tab_and_origin_scoped';
     this.available      = false;
     this.player         = null;
